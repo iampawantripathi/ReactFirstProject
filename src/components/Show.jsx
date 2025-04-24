@@ -25,7 +25,7 @@ const Show = () => {
                     <div className='col-12'>
                         <div className='py-5'>
                             <div className='d-flex justify-content-between align-items-center my-2 py-3 px-4'>
-                                <h2>User</h2>
+                                <h2>User Details</h2>
                                 <Link to="/create">
                                     <button className='btn btn-success'>Create</button>
                                 </Link>
