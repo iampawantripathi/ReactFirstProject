@@ -18,6 +18,7 @@ const Create = () => {
         localStorage.setItem('userDetails', JSON.stringify(newData))
         navigate('/')
         //sdgdfg
+        //kjsdhfkdjsbf
     }
 
     return (
